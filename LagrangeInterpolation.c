@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#define N 10
+#define N 100
 
 int main(void)
 {
